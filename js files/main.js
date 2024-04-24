@@ -35,6 +35,7 @@ $(document).ready(function() {
             cpf: "Por favor, insira seu CPF",
             endereco: "Por favor, insira seu endereço",
             cep: "Por favor, insira seu CEP",
+            senha: "Por favor, escolha uma senha",
         },
         submitHandler: function(form) {
             console.log(form)
